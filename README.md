@@ -55,11 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 My Enumerable <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,7 +71,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- Implementation of ceratin features of the [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html) mixin from Ruby
+- Implementation of certain features of the [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html) mixin from Ruby
 - Implements [all?](https://ruby-doc.org/core-3.0.0/Enumerable.html#method-i-all-3F) method
 - Implements [any?](https://ruby-doc.org/core-3.0.0/Enumerable.html#method-i-any-3F) method
 - Implements [filter](https://ruby-doc.org/core-3.0.0/Enumerable.html#method-i-filter) method
@@ -182,8 +180,6 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] Implement more methods from Enum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -219,7 +215,5 @@ I would like to thank the Microverse team for their invaluable resources
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/MMGGYY66/my-enumerable/blob/enumerable/MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
