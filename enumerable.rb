@@ -1,9 +1,4 @@
 module MyEnumerable
-  def any?
-    @list.each { |element| return true if yield element }
-    false
-  end
-
   def all?
     @list.each { |element| return false unless yield element }
     true
@@ -15,5 +10,10 @@ module MyEnumerable
       result.push(element) if yield element
     end
     result
+  end
+
+  def any?
+    @list.each { |element| return true if yield element }
+    false
   end
 end
